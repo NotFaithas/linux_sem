@@ -1,4 +1,5 @@
 print("My first program")
 a=3
 b=2
-print("Count: ", a+b)
+print("Sum: ", a+b)
+print("Dif:", a-b)
